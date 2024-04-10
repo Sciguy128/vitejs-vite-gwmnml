@@ -47,7 +47,7 @@ export default {
           </div>
         </div>
       </div>
-      <div class="card-body">
+      <!--<div class="card-body">
         <table class="table">
           <tr>
             <td class="col-2">Title</td>
@@ -68,7 +68,7 @@ export default {
             ></Task>
           </tr>
         </table>
-      </div>
+      </div>-->
     </div>
   </div>
   <AddItem msg="Vite + Vue" />
